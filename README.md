@@ -37,7 +37,7 @@
 
 ### Screenshot/Képernyőkép
 
-<img src="screenshots/TetFel1.png" alt="TetFel Screenshot" width="400">)
+<img src="screenshots/TetFel1.png" alt="TetFel Screenshot" width="400">
 
 ---
 
