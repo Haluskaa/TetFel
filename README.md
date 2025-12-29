@@ -18,7 +18,7 @@
 
 ### Képernyőkép
 
-![TetFel Screenshot](screenshots/tetfel_main.png)
+![TetFel Screenshot](screenshots/TetFel1.png)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### Screenshot
 
-![TetFel Screenshot](screenshots/tetfel_main.png)
+![TetFel Screenshot](screenshots/TetFel1.png)
 
 ---
 
