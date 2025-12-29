@@ -16,9 +16,6 @@
 - Induláskor a program a `nev.txt` fájlból olvassa be a neveket.
 - Egyéni névsor a **Beolvas** gombbal tölthető be.
 
-### Képernyőkép
-
-![TetFel Screenshot](screenshots/TetFel1.png)
 
 ---
 
@@ -38,18 +35,18 @@
 - On startup, the program loads student names from the `nev.txt` file.
 - A custom student list can be loaded by clicking the **Load** button.
 
-### Screenshot
+### Screenshot/Képernyőkép
 
-![TetFel Screenshot](screenshots/TetFel1.png)
+<img src="screenshots/TetFel1.png" alt="TetFel Screenshot" width="400">)
 
 ---
 
-### Project Structure
+### Project Structure/Struktúra
 
 ```text
 TetFel/
 ├─ screenshots/
-│  └─ tetfel_main.png
+│  └─Tetfel1.png
 ├─ dist
 ├─ README.md
 └─ src/tetfel
